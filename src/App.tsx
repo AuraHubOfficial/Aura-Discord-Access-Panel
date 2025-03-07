@@ -4,7 +4,7 @@ import { Toaster, toast } from 'react-hot-toast';
 
 function App() {
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
-  const CLIENT_ID = process.env.DISCORD_CLIENT_ID;
+  const CLIENT_ID = 'Add Your Bot Client Here';
   const REDIRECT_URI = encodeURIComponent('http://localhost:5174/auth/discord/callback');
   const DISCORD_AUTH_URL = `https://discord.com/api/oauth2/authorize?client_id=${CLIENT_ID}&redirect_uri=${REDIRECT_URI}&response_type=code&scope=${encodeURIComponent('identify guilds.join guilds')}`;
 
