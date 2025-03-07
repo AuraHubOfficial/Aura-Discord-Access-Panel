@@ -69,7 +69,7 @@ Before running the app, you need to set up some environment variables to integra
 
 ## Showcase
 <p>
-  <img src="Willbeadded" alt="Screenshots">
+  <img src="https://i.imgur.com/VWAc1Oc.png" alt="Screenshots">
 </p>
 
 ## License
