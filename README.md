@@ -1,4 +1,4 @@
-# Aura Discord Auth Panel
+# <p align="center">Aura Discord Auth Panel</p>
 
 **Aura Discord Auth Panel** is a powerful web application that allows users to authenticate using their Discord account and automatically gain a specific role in your Discord server. With this tool, you can easily manage access to your server and reward your community members with special roles when they log in through Discord.
 
